@@ -1,0 +1,18 @@
+p{
+    color:blue;
+    border: yellow;
+}
+h1{
+    color:rgb(210, 89, 90);
+    border-style: dotted ;
+    border-width: 5px;
+}
+#bg{
+    background:yellow;
+    border-style: solid solid dotted solid ;
+}
+#bg1{
+    background-image: url("1616261293761.jpg");
+    border-style: double;
+    border-radius: 10%;
+}
